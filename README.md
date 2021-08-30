@@ -14,9 +14,9 @@ The fan states that the model can recognize (shown in the video above) are summa
 * *Unknown*
 * *Fan Off*
 * *Tapping*
-* *Fon Speed 1*
-* *Fon Speed 2*
-* *Fon Speed 3*
+* *Fan Speed 1*
+* *Fan Speed 2*
+* *Fan Speed 3*
 * *Shaking*
 
 ## Hardware Used
@@ -105,9 +105,9 @@ Note that the output classification is given as an integer number which is the c
 | 0 | *Unknown* |
 | 1 | *Fan Off* |
 | 2 | *Tapping* |
-| 3 | *Fon Speed 1* |
-| 4 | *Fon Speed 2* |
-| 5 | *Fon Speed 3* |
+| 3 | *Fan Speed 1* |
+| 4 | *Fan Speed 2* |
+| 5 | *Fan Speed 3* |
 | 6 | *Shaking* |
 
 ## Usage with SensiML Open Gateway
